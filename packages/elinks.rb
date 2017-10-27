@@ -21,7 +21,7 @@ class Elinks < Package
   end
 
   depends_on 'bz2'
-  depends_on 'lzma'
+  depends_on 'lzip'
   depends_on 'openssl'
   depends_on 'zlibpkg'
 
